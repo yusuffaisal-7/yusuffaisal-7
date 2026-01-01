@@ -1,17 +1,134 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm **Yousuf H Faysal**
 
-###
+🚀 **Startup Founder | Full-Stack Developer | UI/UX Designer | AI Enthusiast**  
+Founder of **Foxmen Studio** | Designer & Developer at **Void Studio** and **Sailors Agency**
 
-👋 Hi, I’m Yusuf Faisal, a passionate Frontend Developer, UI/UX Designer, and ML Enthusiast who loves crafting beautiful and interactive web experiences. I specialize in building responsive, user-friendly interfaces and exploring the power of modern web technologies.<br><br>💻 What I Do<br>	•	🎨 Frontend Development – React, HTML, CSS, JavaScript<br>	•	🖌️ UI/UX Design – Crafting clean & engaging user interfaces<br>	•	⚡ Web Animations & Interactivity – Enhancing user experience<br>	•	🛠 Building Scalable & Performant Websites<br><br>🚀 Currently Learning<br>	•	🤖 Generative AI – Exploring AI-powered creativity<br>	•	🖼 OpenCV – Image processing & computer vision<br><br>🌱 Looking to Collaborate On<br>	•	AI-powered web applications<br>	•	Innovative design & development projects<br><br>💬 Ask Me About<br>	•	Frontend development & UI/UX design<br>	•	Building high-performance web applications<br>	•	Creative animations & user experience<br><br>📫 Let’s Connect!<br><br>💼 Portfolio: https://yusuf-faisal.netlify.app<br>🔗 LinkedIn: https://www.linkedin.com/in/yusuf-faysal/<br><br>⸻</p>
+🌐 **Website:** https://foxmen.studio  
+📍 **Location:** Dhaka, Bangladesh  
+📧 **Email:** yusufoesta7t@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/yusuf-faysal  
+📅 **Book a Call:** https://cal.com/yousuf_faysal_
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+I’m **Yousuf H Faysal**, a **startup owner, full-stack developer, and UI/UX designer** passionate about creating **modern, scalable, and visually powerful digital products**.
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I’m currently learning Generative AI & OpenCV<br>🎯 Goals: Build AI-powered web applications & enhance Web Developement skills<br>🎲 Fun fact: I debug my code more than I write</p>
+I work across:
+- Product design (UI/UX)
+- Frontend & backend development
+- SaaS architecture
+- AI-powered solutions
+- Startup product building
 
+I believe great products come from the **perfect balance of design, usability, and engineering**.
+
+---
+
+## 🏢 Founder — Foxmen Studio
+
+🌐 https://foxmen.studio  
+📅 *June 2021 – Present*
+
+**Foxmen Studio** is a creative technology studio focused on building **premium digital solutions** for startups, founders, and businesses.
+
+### 🚀 What We Do at Foxmen Studio
+- **Web Development** – Modern, fast & scalable websites  
+- **Mobile App Development** – Android & cross-platform apps  
+- **UI/UX Design** – Clean, premium, user-focused designs  
+- **SaaS Development** – End-to-end product development  
+- **AI Integration** – Smart automation & AI-powered tools  
+- **Brand Identity & Digital Presence**
+
+💡 *We don’t just build software — we design digital experiences that grow brands.*
+
+---
+
+## 🧠 Professional Experience
+
+### 🔹 Designer & Developer — Void Studio
+📅 *2024 – 2025*
+
+- Worked as both **UI/UX Designer & Web Developer**
+- Designed modern, user-friendly interfaces
+- Developed production-level web applications
+- Improved UI flow, performance & usability
+- Collaborated with teams on product design & development
+
+---
+
+### 🔹 Software Developer & UI/UX Designer — Sailors Agency
+📅 *March 2025 – Present*
+
+- Worked as a **Full-Stack Developer and UI/UX Designer**
+- Designed clean, conversion-focused user interfaces
+- Built scalable backend systems
+- Developed full-stack web applications
+- Contributed to product planning and UX improvements
+
+---
+
+### 🔹 Web Application Developer — 3D WebMasters
+📅 *May 2025 – Present*
+
+- Frontend & backend development  
+- UI implementation from design to production  
+- Client-focused website development  
+
+---
+
+## 🧰 Tech Stack & Skills
+
+### 💻 Development
+- JavaScript / TypeScript  
+- Python  
+- React.js / Next.js  
+- Node.js / Express  
+- Django  
+- REST APIs  
+- PostgreSQL / MongoDB  
+
+### 🎨 UI/UX & Design
+- Figma  
+- UI/UX Design Principles  
+- Wireframing & Prototyping  
+- Tailwind CSS  
+- Responsive & Mobile-First Design  
+
+### 🤖 Tools & AI
+- OpenAI API  
+- Automation Tools  
+- Git & GitHub  
+- Docker (Basic)  
+
+---
+
+## 🎯 What I Focus On
+
+✔ Building scalable digital products  
+✔ Designing premium UI/UX experiences  
+✔ Helping startups grow with technology  
+✔ Clean, maintainable code  
+✔ Performance & user experience  
+
+---
+
+## 🌍 Vision
+
+> *“To build impactful digital products that combine beautiful design, strong engineering, and real-world usability.”*
+
+---
+
+## 📫 Let’s Connect
+
+📩 **Email:** yusufoesta7t@gmail.com  
+🌐 **Website:** https://foxmen.studio  
+📅 **Book a Call:** https://cal.com/yousuf_faysal_
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect with me!*
 ###
 
 <h2 align="left">I code with</h2>
